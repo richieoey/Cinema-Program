@@ -1,0 +1,4 @@
+1#Richie#Manager
+2#Vincent#Karyawan
+3#Jezreel#Karyawan
+4#Rommy#Karyawan

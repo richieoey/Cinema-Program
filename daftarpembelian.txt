@@ -1,0 +1,27 @@
+1#Ichi Ni San Nya#Venom#15:30#13#A5
+2#Jerry#Venom#09:30#7#A5
+3#Nila#Venom#09:30#10#A5
+4#Messi#Venom#09:30#13#A5
+5#Maria#Avengers : Endgame#11:00#3#A2
+6#Miria#Avengers : Endgame#11:00#5#A2
+7#Narika#Avengers : Endgame#11:00#8#A2
+8#Jeriko#Spider Man No Way Home#10:00#10#A1
+9#Kiky#Spider Man No Way Home#10:00#13#A1
+10#Nika#Spider Man No Way Home#10:00#9#A1
+11#Nakesto#Spider Man No Way Home#10:00#4#A1
+12#Harris#Spider Man No Way Home#10:00#11#A1
+13#Nila#Spider Man No Way Home#10:00#15#A1
+14#Jerico#Spider Man No Way Home#13:00#5#A1
+15#Nika#Spider Man No Way Home#13:00#8#A1
+16#Maikel#Spider Man No Way Home#10:00#7#A1
+17#J#Spider Man No Way Home#10:00#26#A1
+18#Y#Spider Man No Way Home#10:00#96#A1
+19#Nisan#Godzilla vs. Kong#09:00#5#A3
+20#Nakira#Avatar#10:30#11#A4
+21#J#Mortal Combat#10:00#9#A1
+22#K#Mortal Combat#10:00#8#A1
+23#N#Mortal Combat#10:00#10#A1
+24#Nasar#Godzilla vs. Kong#09:00#11#A3
+25#Farica#Avengers : Endgame#18:00#57#A2
+
+26#Rommy#Avengers : Endgame#14:30#85#A2
